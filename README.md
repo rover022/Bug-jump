@@ -1,1 +1,1 @@
-# Bug-jump
+# peaceful-protest-game
